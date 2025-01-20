@@ -1,10 +1,10 @@
 ### About me:
 - 😄 Fun fact: I'm a Data Analyst
 - 🔭 I’m looking to collaborate on commercial projects and startups
-- 📫 How to reach me: [Email](gsanskar77@gmail.com)
+- 📫 How to reach me: [Email](mailto:gsanskar77@gmail.com)
 - 💬 Ask me about `Data`
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yoichi.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanxxpandey) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Kenxxaman) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Amanpandey6) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskar-gupta04/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]() [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]() 
 
 # 📊 GitHub Stats:
 <img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
