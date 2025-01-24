@@ -9,7 +9,7 @@
 # 📊 GitHub Stats:
 <img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
 
-  <a href="https://github.com/SanskarGupta001"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=losercodes&theme=radical&title_color=ff3068?"></a>
+  <a href="https://github.com/SanskarGupta001"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=SanskarGupta001&theme=radical&title_color=ff3068?"></a>
    <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SanskarGupta001&layout=compact&theme=onedark" />
  
   <div>
