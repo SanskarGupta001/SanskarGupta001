@@ -24,7 +24,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SanskarGupta001&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='[https://randommeme-five.vercel.app/](https://i.pinimg.com/736x/ac/79/dd/ac79ddd7af3b06b3ced6c1822f16fe13.jpg)' style="height: 400px;"/>
 
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
